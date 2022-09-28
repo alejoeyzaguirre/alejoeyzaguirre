@@ -1,7 +1,9 @@
 ## Hi ✌️!
 - I’m @alejoeyzaguirre and I'm currently an Econ student 📈 at PUC de Chile.
 - I’m interested in Economics (micro, econometrics and IO) and Data Science. 
-- I’m currently working as a Research Assistant for Prof. Emilio Depetris-Chauvin and also once in a while I try to program some things (Python, Stata and R). Previously I worked as a Data Scientist at ConsiliumBots and at Compass Lexecon as a Research Analyst.
+- I’m currently working on my Master in Economics Thesis where I study the impact of social media on the economy.
+- Previously I worked as a Research Assistant for Prof. Emilio Depetris-Chauvin, as a Data Scientist at ConsiliumBots, and as a Research Analyst at Compass Lexecon. 
+- Once in a while I try to program some things (Python, Stata and R).
 - I’m looking to collaborate in the economics field to maximize everyones welfare 🌎 🌍 🌏.
 - For any question just ask me by email (alejo@uc.cl).
 
